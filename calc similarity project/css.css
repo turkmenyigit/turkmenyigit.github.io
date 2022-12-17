@@ -1,0 +1,71 @@
+
+p{
+    text-align: center;
+}
+#sci-fi{
+    border: 3px solid green;
+    width: 370px;
+    height: 500px;
+    background-color: lightblue;
+}
+#classics{
+    border: 3px solid green;
+    width: 370px;
+    height: 500px;
+    background-color: lightgray;
+}
+#horror{
+    border: 3px solid green;
+    width: 370px;
+    height: 500px;
+    background-color: lightcoral;
+}
+#romantic{
+    border: 3px solid green;
+    width: 370px;
+    height: 500px;
+    background-color: lightpink;
+}
+#action{
+    border: 3px solid green;
+    width: 370px;
+    height: 500px;
+    background-color: lightgreen;
+}
+#series{
+    border: 3px solid green;
+    width: 370px;
+    height: 500px;
+    background-color: lightsalmon;
+}
+#xyz{
+    margin-top: 30px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    padding-top: 10px;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Marhey', cursive;
+    padding-top: 40px;
+}
+h3{
+    color: blue;
+    font-family: 'Shadows Into Light', cursive;
+}
+h4{
+    font-family: 'Reggae One', cursive;
+}
+div{
+    border-radius: 10%;
+    float: left;
+    margin: 20px;
+    padding: 45px;
+   
+}
